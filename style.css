@@ -1,0 +1,12 @@
+.header{
+    justify-content: center;
+    background-color: brown;
+}
+.header-content{
+    display: flex;
+    gap: 904px;
+    justify-content: center;
+}
+.image-back{
+    background-color: blueviolet;
+}
