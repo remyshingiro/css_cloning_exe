@@ -92,3 +92,7 @@
     display: flex;
     gap: 20px;
 }
+.browse-img{
+    width: 300px;
+    border-radius: 20px;
+}
