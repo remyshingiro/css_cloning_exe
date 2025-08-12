@@ -96,3 +96,7 @@
     width: 300px;
     border-radius: 20px;
 }
+.browse-cards{
+    display: flex;
+    gap: 40px;
+}
