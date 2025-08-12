@@ -56,3 +56,29 @@
     width: 85px;
     height: 48px;
 }
+.book1{
+    width: 372px;
+    height: 110px;
+    background-color: rgb(44, 142, 184);
+    border-radius: 20px;
+}
+.book2{
+    width: 372px;
+    height: 110px;
+    background-color: rgb(44, 142, 184);
+    border-radius: 20px;
+}
+.book3{
+    width: 372px;
+    height: 110px;
+    background-color: rgb(44, 142, 184);
+    border-radius: 20px;
+}
+.book-container{
+    display: flex;
+    gap: 40px;
+    
+}
+.acc-im{
+    width: 200px;
+}
