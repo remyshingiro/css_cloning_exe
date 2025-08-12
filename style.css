@@ -1,6 +1,5 @@
 .header{
     justify-content: center;
-    background-color: brown;
 }
 .header-content{
     display: flex;
@@ -8,5 +7,14 @@
     justify-content: center;
 }
 .image-back{
-    background-color: blueviolet;
+    width: 100%;
+    height: 100%;
+}
+.image-sect{
+    position: relative;
+    top: -250px;
+}
+.links{
+    display: flex;
+    gap: 12px;
 }
