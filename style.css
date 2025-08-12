@@ -81,4 +81,14 @@
 }
 .acc-im{
     width: 200px;
+    border-radius: 20px;
+}
+.words{
+    position: relative;
+    top: -50px;
+    color: white;
+}
+.accom-div{
+    display: flex;
+    gap: 20px;
 }
