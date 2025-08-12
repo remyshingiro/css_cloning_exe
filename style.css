@@ -104,3 +104,15 @@
     width: 600px;
     border-radius: 20px;
 }
+.big-cards{
+    display: flex;
+    gap: 20px;
+}
+.biggy-img{
+    width: 200px;
+    border-radius: 20px;
+}
+.biggy-cards{
+    display: flex;
+    gap: 40px;
+}
